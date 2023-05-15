@@ -3,6 +3,6 @@ setuptools
 numpy
 matplotlib
 seaborn
-flask
+Flask
 scikit-learn
 -e .
